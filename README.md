@@ -8,6 +8,10 @@ Go server example.
 
 ## Install
 
+```shell
+$ go mod tidy
+```
+
 ## Usage
 
 ## Licence
